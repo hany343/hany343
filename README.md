@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hany343
+- 👋 Hi, I’m @hany343 working as IT Team Leader
 - 👀 I’m interested in Beckend and Cloud development
 - 🌱 I’m currently learning AWS DevOps, .Net development and javascript
 - 💞️ I’m looking to collaborate on great development projects
