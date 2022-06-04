@@ -70,6 +70,10 @@ jobs:
   create_infrastructure: 
     docker:
       - image: amazon/aws-cli
+        environment:
+          Access_key_ID: AKIA434LWOIPTJDQ6W2P
+          Secret_access_key: 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
+          AWS_REGION: us-east-1
     steps:
       - checkout
       - run:
