@@ -99,7 +99,7 @@ jobs:
       - run:
           name: Configure server
           command: |
-            ansible-playbook -i inv.txt main4.yml --key-file ans1.pem
+            sudo ansible-playbook -i inv.txt main4.yml --key-file ans1.pem
 
   # Exercise: Smoke Testing
   smoke_test:
